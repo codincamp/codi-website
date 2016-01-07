@@ -27,13 +27,12 @@ nav {
 }*/
 
 section {
-	background-color: #fff;
 	border-radius: 5px;
 	padding: 25px 0;
 }
 
 .pro {
-	padding: 15px 0 40px 0;
+	padding-bottom: 40px;
 }
 
 label {
@@ -68,13 +67,8 @@ footer {
 	background-color: #f7f7f7;
 }
 
-.bg-light-grey:not(.first) {
-	margin: 10px 0;
-}
-
 .l1170 {
 	width: 1170px;
-	/*text-align: center;*/
 	margin: auto;
 }
 
@@ -85,7 +79,6 @@ footer {
 .titre {
 	display: inline-block;
 	width: 30%;
-	/*float: left;*/
 	margin-right: 60px;
 	font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
